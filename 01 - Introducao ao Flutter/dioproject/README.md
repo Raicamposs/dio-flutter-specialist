@@ -1,6 +1,6 @@
 # 🏆 Desafio : Subindo o Seu Projeto Flutter no GitHub
 
-Neste projeto, utilizei o conhecimento adquirido no primeiro módulo da DIO. O objetivo é demonstrar minha habilidade de configurar um ambiente de desenvolvimento Flutter e compartilhar o projeto resultante.
+Neste projeto, utilizei o conhecimento adquirido no primeiro módulo da Formação Flutter Specialist da DIO, para demonstrar minha habilidade de configurar um ambiente de desenvolvimento Flutter e compartilhar o projeto resultante.
 
 
 

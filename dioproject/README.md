@@ -20,7 +20,7 @@ Os principais objetivos deste desafio foram:
 
 ## 🎉 Demonstração
 
-![Tela inicial](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/01%20-%20Introducao%20ao%20Flutter/dioproject/screenshots/screenshot.gif?raw=true "Tela inicial do App")
+![Tela inicial](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/dioproject/screenshots/screenshot.gif?raw=true "Tela inicial do App")
 
 
 ## 🚀 Feedback

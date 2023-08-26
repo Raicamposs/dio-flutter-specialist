@@ -17,6 +17,19 @@ Os principais objetivos deste desafio foram:
 - **Subir o Projeto no GitHub:** Compartilhei o projeto neste repositório no GitHub, documentando minha jornada de aprendizado.
 
 
+## 🚧 Requisitos do Sistema
+
+- Dart SDK (pelo menos a versão 3.1.0)
+- Flutter SDK (pelo menos a versão 3.13.0)
+
+
+## 🪄 Instalação
+
+1. Clone este repositório: `git clone [repositório]`
+2. Navegue até o diretório do projeto: `cd dioproject`
+3. baixe as dependências: `flutter pub get`
+4. Execute o aplicativo: `flutter run`
+
 
 ## 🎉 Demonstração
 
@@ -25,6 +38,9 @@ Os principais objetivos deste desafio foram:
 
 ## 🚀 Feedback
 
-Este repositório representa meu progresso e dedicação à aprendizagem contínua. Convido você a explorar o projeto, examinar o código e compartilhar feedback, à medida que continuo a desenvolver minhas habilidades no mundo do Flutter.
+Se tiver alguma dúvida ou sugestão sobre o projeto, sinta-se à vontade para entrar em contato:
+[Raiane Campos](https://www.linkedin.com/in/raicamposs/) - raianejanu@gmail.com
+
+
  
  

@@ -28,6 +28,9 @@ A calculadora de IMC é uma aplicação simples desenvolvida em Flutter que perm
 
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
+## 🎉 Demonstração
+
+![Tela inicial](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/app_calculadora_imc/screenshots/screenshot.gif?raw=true "Tela inicial do App")
 
 ## 🚀 Feedback
 

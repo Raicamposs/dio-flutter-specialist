@@ -30,13 +30,13 @@ Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/
 
 ![Tela inicial](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/lista_contatos/screenshots/screenshot.gif?raw=true "Tela inicial do App")
 
-![Tela inicial](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/lista_contatos/screenshots/screenshot_01.png?raw=true "Tela inicial do App")
+![Tela inicial](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/lista_contatos/screenshots/Screenshot_01.png?raw=true "Tela inicial do App")
+ 
+![Tela Cadastro](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/lista_contatos/screenshots/Screenshot_02.png?raw=true "Tela de Cadastro")
 
-![Tela Cadastro](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/lista_contatos/screenshots/screenshot_02.png?raw=true "Tela de Cadastro")
+![Tela Cadastro](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/lista_contatos/screenshots/Screenshot_03.png?raw=true "Tela de Cadastro")
 
-![Tela Cadastro](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/lista_contatos/screenshots/screenshot_03.png?raw=true "Tela de Cadastro")
-
-![Tela Detalhe do Contato](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/lista_contatos/screenshots/screenshot_04.png?raw=true "Tela Detalhe do Contato")
+![Tela Detalhe do Contato](https://github.com/Raicamposs/dio-flutter-specialist/blob/main/lista_contatos/screenshots/Screenshot_04.png?raw=true "Tela Detalhe do Contato")
 
 ## 🚀 Feedback
 
